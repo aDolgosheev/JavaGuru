@@ -76,7 +76,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat 10.1.16" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.33" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+    <configuration name="Tomcat 10.1.16" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.16" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER" value="false" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -184,6 +184,7 @@
       <workItem from="1732625839381" duration="1775000" />
       <workItem from="1732645927512" duration="1797000" />
       <workItem from="1732648697492" duration="27000" />
+      <workItem from="1732694649400" duration="69000" />
     </task>
     <servers />
   </component>
