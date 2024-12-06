@@ -1,4 +1,4 @@
-﻿package com.dolgosheev.productmicroservice.service.event;
+package com.dolgosheev.productmicroservice.service.event;
 
 import java.math.BigDecimal;
 
